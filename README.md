@@ -1,5 +1,9 @@
 # Getting Started with Create React App
 
+The main functionality of the app will be built with this tutorial - https://www.youtube.com/watch?v=hQAHSlTtcmY&ab_channel=WebDevSimplified
+
+After building it to plain react, I will style it with css and play with it later.
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
