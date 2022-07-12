@@ -1,0 +1,29 @@
+.centered-div {
+    display: flex;
+    flex-direction: column;
+    gap: 15px;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    background-color: rgba(0, 255, 136, 0.4);
+}
+
+body {
+    margin: 0px;
+    font-family: 'Courier New', Courier, monospace;
+}
+
+button {
+    border-radius: 10px;
+    padding: 5px 10px;
+}
+
+button:hover {
+    box-shadow: 0 0 20px rgb(144, 144, 248);
+    transform: scale(1.15) perspective(1px);
+    cursor: pointer;
+}
+
+.todos-left {
+    font-weight: bolder;
+}
